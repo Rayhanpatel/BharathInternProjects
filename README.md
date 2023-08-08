@@ -26,7 +26,12 @@ In this project, I have implemented a Stock Price Prediction model using Long Sh
 - Building and training LSTM models
 - Visualizing predicted vs. actual stock prices
 ## Demo
-<video src="imdvid/stock.mp4" controls title="Title"></video>
+
+<video width="320" height="240" controls>
+    <source src="imdvid/stock.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ### Titanic Survival Classification
 
 Another exciting project I worked on was the Titanic Survival Classification. The goal was to create a system that predicts whether a person would survive the Titanic sinking based on factors such as socio-economic status, age, gender, and more. This project taught me:
@@ -38,7 +43,12 @@ Another exciting project I worked on was the Titanic Survival Classification. Th
 - Evaluating model performance using accuracy, precision, recall, F1-score, and ROC-AUC
 
 ## Demo
-<video src="imdvid/titanic.mp4" controls title="Title"></video>
+
+<video width="320" height="240" controls>
+    <source src="imdvid/titanic.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ## Key Takeaways
 
 During my Data Science internship at Bharath Inter, I have learned:
