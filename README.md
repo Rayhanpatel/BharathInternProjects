@@ -4,7 +4,7 @@ Welcome to my Data Science Internship experience at Bharath Inter! In this repos
 
 ## About Bharath Inter
 
-Bharath Inter is a leading organization that specializes in providing data-driven solutions and insights to businesses. They are dedicated to leveraging data to make informed decisions and drive growth.
+Bharath Intern is a leading organization that specializes in providing data-driven solutions and insights to businesses. They are dedicated to leveraging data to make informed decisions and drive growth.
 
 ## Requirements
 
@@ -44,7 +44,7 @@ Another exciting project I worked on was the Titanic Survival Classification. Th
 ![Titanic Survival](imdvid/titanic.gif)
 ## Key Takeaways
 
-During my Data Science internship at Bharath Inter, I have learned:
+During my Data Science internship at Bharath Intern, I have learned:
 
 - How to preprocess and clean data for analysis
 - Techniques for building and training machine learning models
