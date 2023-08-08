@@ -1,0 +1,36 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files created by MacOS
+.DS_Store
+
+# Ignore Python virtual environment folders
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Ignore data files and sensitive information
+data/
+secrets.yaml
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore local development configuration
+config.yaml
+
+# Ignore user-specific IDE and editor settings
+.idea/
+.vscode/
+*.code-workspace
+
+# Ignore environment and package configuration
+requirements.txt
+Pipfile.lock
