@@ -27,10 +27,7 @@ In this project, I have implemented a Stock Price Prediction model using Long Sh
 - Visualizing predicted vs. actual stock prices
 ## Demo
 
-<video width="320" height="240" controls>
-    <source src="imdvid/stock.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![Stock Price](imdvid/stock.gif)
 
 ### Titanic Survival Classification
 
@@ -44,11 +41,7 @@ Another exciting project I worked on was the Titanic Survival Classification. Th
 
 ## Demo
 
-<video width="320" height="240" controls>
-    <source src="imdvid/titanic.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
+![Titanic Survival](imdvid/titanic.gif)
 ## Key Takeaways
 
 During my Data Science internship at Bharath Inter, I have learned:
