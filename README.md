@@ -1,10 +1,10 @@
-# Bharath Inter Data Science Internship
+# Bharath Intern Data Science Internship
 
-Welcome to my Data Science Internship experience at Bharath Inter! In this repository, you will find the projects I have completed and the skills I have learned during my internship. Let's dive in!
+Welcome to my Data Science Internship experience at Bharath Intern! In this repository, you will find the projects I have completed and the skills I have learned during my internship. Let's dive in!
 
 ## About Bharath Inter
 
-Bharath Intern is a leading organization that specializes in providing data-driven solutions and insights to businesses. They are dedicated to leveraging data to make informed decisions and drive growth.
+Bharath Intern is a leading organization specializing in providing data-driven solutions and insights to businesses. They are dedicated to leveraging data to make informed decisions and drive growth.
 
 ## Requirements
 
